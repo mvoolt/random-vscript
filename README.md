@@ -24,4 +24,6 @@ To use `dump_json_docs.nut` script located in works_in_multiple_games folder, do
 8. after its been ran successfully, run `con_logfile ""` to stop logging to a file
 9. there should be a file named json.log in your game folder where gameinfo.txt is
 
-For games like Nuclear Dawn you can use `http_doc.nut` instead to grab the JSON output from your HTTP client if -netconport is specified
+For games like Nuclear Dawn you can use `http_doc.nut` instead to grab the JSON output from your HTTP client if -netconport is specified, below is a screenshot of http_doc.nut in action.
+
+<img width="1919" height="1056" alt="image" src="https://github.com/user-attachments/assets/05fce961-12e9-425f-95e2-62adf1a543fe" />
